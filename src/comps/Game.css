@@ -7,9 +7,9 @@ html{
     font-size: 10px;
 }
 .container{
-    /* background-image:url("/public/images/pexels-pixabay-269630.jpg") ;
+    background-image:url("/public/images/pexels-pixabay-269630.jpg") ;
     background-repeat: no-repeat;
-    background-size: 130rem; */
+    background-size: 130rem;
     display: flex;
     width: 100vw;
     height: 100vh;
